@@ -13,23 +13,23 @@ Raw videos and clinical datasets are **not included** due to privacy, and size c
 ### JIGSAWS Dataset: Details regarding access and the request procedure are available at: https://cirl.lcsr.jhu.edu/research/hmm/datasets/jigsaws/
 
 ## Repository Structure
+```text
+data/
+  pre_calculated_features/
+    knottying_all_features_combined.csv
+    needle_passing_all_features_combined.csv
+    suturing_all_features_combined.csv
 
-├── data/
-│ ├── pre_calculated_features/
-│ │ ├── knottying_all_features_combined.csv
-│ │ ├── needle_passing_all_features_combined.csv
-│ │ └── suturing_all_features_combined.csv
-│ └── splits/
-│ └── kfold4.json
-│
-├── src/
-│ └── jigsaws/
-│ └── train.py
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
+splits/
+  kfold4.json
 
+src/
+  jigsaws/
+    train.py
+
+requirements.txt
+README.md
+.gitignore
 
 
 ---
