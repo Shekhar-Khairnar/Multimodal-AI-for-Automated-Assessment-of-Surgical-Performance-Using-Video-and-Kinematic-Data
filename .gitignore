@@ -1,0 +1,55 @@
+# -----------------------
+# Data (never commit)
+# -----------------------
+data/raw/
+data/pre_calculated_features/
+original_files/
+data/processed/
+runs_precalc/
+plots/
+plot_embeddings/
+video_features_slowfast/
+kinematics_filtered_lineplots/
+events/
+labels/
+training/
+configs/
+
+
+*src/main.py
+
+
+# -----------------------
+# Model/artifacts (never commit)
+# -----------------------
+*.log
+*.tmp
+*.cache
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.onnx
+*.npy
+*.npz
+*.parquet
+
+# -----------------------
+# Notebooks (optional)
+# -----------------------
+*.ipynb
+.ipynb_checkpoints/
+
+# -----------------------
+# Env/editor
+# -----------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

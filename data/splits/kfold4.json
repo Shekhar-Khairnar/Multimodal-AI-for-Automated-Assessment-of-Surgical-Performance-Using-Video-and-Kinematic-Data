@@ -1,0 +1,20 @@
+{
+  "Suturing": [
+    ["Suturing_I002", "Suturing_G004", "Suturing_F004", "Suturing_B001", "Suturing_C003", "Suturing_C002", "Suturing_E001", "Suturing_D004", "Suturing_E004"],
+    ["Suturing_D003", "Suturing_C004", "Suturing_H001", "Suturing_F005", "Suturing_G002", "Suturing_C005", "Suturing_D005", "Suturing_H005", "Suturing_E003", "Suturing_G003"],
+    ["Suturing_B005", "Suturing_H004", "Suturing_F001", "Suturing_F002", "Suturing_E005", "Suturing_I004", "Suturing_D001", "Suturing_B003", "Suturing_F003", "Suturing_I005"],
+    ["Suturing_B002", "Suturing_I003", "Suturing_E002", "Suturing_C001", "Suturing_H003", "Suturing_B004", "Suturing_G001", "Suturing_D002", "Suturing_I001", "Suturing_G005"]
+ ],
+  "Knot_Tying": [
+    ["Knot_Tying_H005", "Knot_Tying_G003", "Knot_Tying_C004", "Knot_Tying_H003", "Knot_Tying_G001", "Knot_Tying_F005", "Knot_Tying_I001", "Knot_Tying_I002", "Knot_Tying_B001"],
+    ["Knot_Tying_E001", "Knot_Tying_G005", "Knot_Tying_E004", "Knot_Tying_G004", "Knot_Tying_B004", "Knot_Tying_E002", "Knot_Tying_E005", "Knot_Tying_E003", "Knot_Tying_D005"],
+    ["Knot_Tying_D001", "Knot_Tying_B002", "Knot_Tying_H004", "Knot_Tying_I005", "Knot_Tying_D002", "Knot_Tying_F001", "Knot_Tying_C001", "Knot_Tying_G002", "Knot_Tying_B003"],
+    ["Knot_Tying_C002", "Knot_Tying_D003", "Knot_Tying_F004", "Knot_Tying_C005", "Knot_Tying_C003", "Knot_Tying_D004", "Knot_Tying_I003", "Knot_Tying_F003", "Knot_Tying_F002"]
+  ],
+  "Needle_Passing": [
+    ["Needle_Passing_B003", "Needle_Passing_B002", "Needle_Passing_C002", "Needle_Passing_D004", "Needle_Passing_B004", "Needle_Passing_E004", "Needle_Passing_F004"], 
+    ["Needle_Passing_E003", "Needle_Passing_I004", "Needle_Passing_D001", "Needle_Passing_E005", "Needle_Passing_D005", "Needle_Passing_H002", "Needle_Passing_H005"], 
+    ["Needle_Passing_C005", "Needle_Passing_C003", "Needle_Passing_I002", "Needle_Passing_F003", "Needle_Passing_B001", "Needle_Passing_E001", "Needle_Passing_C004"], 
+    ["Needle_Passing_F001", "Needle_Passing_I005", "Needle_Passing_I003", "Needle_Passing_C001", "Needle_Passing_D002", "Needle_Passing_H004", "Needle_Passing_D003"]
+  ]
+}
