@@ -7,7 +7,7 @@ Raw videos and clinical datasets are **not included** due to privacy, and size c
 
 ---
 
-## Precomputed feature CSVs are available here: https://drive.google.com/drive/folders/1HCiXYOFNgAS5uSFPeBJXXW33KhsO0CpU?usp=sharing (download and place in `data/`)
+### Precomputed feature CSVs are available here: https://drive.google.com/drive/folders/1HCiXYOFNgAS5uSFPeBJXXW33KhsO0CpU?usp=sharing (download and place in `data/`)
 
 
 ### JIGSAWS Dataset: Details regarding access and the request procedure are available at: https://cirl.lcsr.jhu.edu/research/hmm/datasets/jigsaws/
