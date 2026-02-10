@@ -1,4 +1,4 @@
-# Multimodal AI for Automated Assessment of Surgical Performance Using Video and Kinematic Data
+# Multimodal AI for Automated Assessment of Surgical Performance
 
 This repository contains the **final training and evaluation code** used for our surgical skill assessment experiments.  
 It is intended to support **reproducibility of results** using **pre-calculated multimodal features** and **fixed evaluation splits**.
